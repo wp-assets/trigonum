@@ -1,0 +1,89 @@
+/*Green Color*/
+.slider-text span { color: yellow;}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    text-decoration: none;
+    color: yellow;
+    background: transparent;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: yellow;
+}
+.affix {background: #101010;}
+.rool {background-color: yellow;}
+.rool2 {background-color: yellow;}
+.front_triangle {
+	border-top: 22px solid yellow;
+}
+.right_about h2 {
+	color: yellow;
+}
+.service_triangle {border-top: 140px solid #a9b8cc;}
+.service_triangle:hover {border-top: 140px solid yellow;}
+.service_triangl:before {border-top: 99px solid yellow;}
+
+.triangle::before {border-top: 36px solid yellow;}
+.single_service:hover .service_single h2 {color: yellow;}
+.our_team_item .team_triangle:hover {
+	border-bottom: 230px solid yellow;
+}
+.our_team_item:hover h3 {
+	color: yellow;
+}
+
+.team_s_link:hover i {
+	color: yellow;
+}
+.ourclient h2 {
+	color: yellow;
+}
+
+.controls button {
+	border: 1px solid yellow;
+	color: yellow;
+}
+
+.controls button:hover {
+	border: 1px solid yellow;
+	background: yellow;
+}
+.portfolio_content:hover.portfolio_content::after {
+	background: yellow;
+}
+
+.foli_left{
+	border-left: 50px solid yellow;
+}
+.foli_right {
+	border-right: 50px solid yellow;
+}
+.blog_info i:last-child {
+	color: yellow;
+}
+.single_blog:hover h3 {
+	color: yellow;
+}
+.single_post:hover.single_post::after {
+	background: yellow;
+}
+.get_update input[type="submit"] {
+	background: yellow;
+}
+
+.contact_left span {
+	color: yellow;
+}
+.contact_right input[type="submit"] {
+	background: yellow;
+}
+.map_triangle {
+	border-top: 22px solid yellow;
+}
+.contact_right input[type="text"]:focus {
+	color: yellow;
+	border: 1px solid yellow;
+}
+.contact_right textarea:focus {
+	border: 1px solid yellow;
+	color: yellow;
+}
+

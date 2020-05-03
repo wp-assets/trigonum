@@ -1,0 +1,225 @@
+/******************************
+	All Responsive Code
+*******************************/
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+
+@media (min-width: 200px) and (max-width: 575px) {
+.tray-design {
+	left: 70px;
+	top: 26%;
+}
+.slider-text {
+	left: 29%;
+}
+.service h2 {
+	width: 227px;
+}
+
+.single_service {
+	margin-left: 8%;
+}
+.service p {
+	width: 100%;
+}
+.single-item {
+	width: 50%;
+}
+
+.get_update input[type="submit"] {
+	letter-spacing: 2px;
+	float: left;
+}
+
+.update_notice {
+	margin-left: 20%;
+}
+.client_img img {
+	margin-left: 37px;
+}
+.getupdate {
+	padding-bottom: 20px;
+}
+.get_touch_triangle1 {
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 51px solid #44619d;
+	margin: 4px;
+	margin-bottom: 15px;
+}
+.get_touch_triangle2 {
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 51px solid #db412e;
+	margin: 4px;
+	margin-bottom: 15px;
+}
+.get_touch_triangle3 {
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 51px solid #24b1d4;
+	margin: 4px;
+	margin-bottom: 15px;
+}
+.get_touch_triangle4 {
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 51px solid #2671ae;
+	margin: 4px;
+	margin-bottom: 15px;
+}
+.get_touch_triangle5 {
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 51px solid #cb2027;
+	margin: 4px;
+	margin-bottom: 15px;
+}
+.get_touch_triangle1 .section_arrow i {
+	top: -45px;
+}
+.get_touch_triangle2 .section_arrow i {
+	top: -45px;
+}
+.get_touch_triangle3 .section_arrow i {
+	top: -45px;
+}
+.get_touch_triangle4 .section_arrow i {
+	top: -45px;
+}
+.get_touch_triangle5 .section_arrow i {
+	top: -45px;
+}
+.contact_left {
+	margin-top: 25px;
+}
+
+
+}
+
+
+/*// Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+.single-item {
+	width: 33.5%;
+	margin: -2;
+}
+.single-item last-child{
+	display: hidden;
+	position: relative;
+}
+input[type="text"] {
+	height: 27px;
+	font-size: 11px;
+}
+.contact_right textarea {
+	font-size: 11px;
+}
+.about p {
+	width: 90%;
+	text-align: center;
+}
+.get_touch_triangle1,
+.get_touch_triangle2,
+.get_touch_triangle3,
+.get_touch_triangle4,
+.get_touch_triangle5
+ {
+	margin-bottom: 10px;
+}
+.tray-design {
+	left: 16%;
+	top: 33%;
+}
+.slider-text h2 {
+	left: -22%;
+	margin-top: 29%;
+}
+.client_img img {
+	position: relative;
+	z-index: 2;
+	left: 29px;
+}
+.slider-text {
+	left: 39%;
+}
+.service h2 {
+	width: 90%;
+}
+.service p {
+	width: 100%;
+}
+.single_service {
+	margin-left: 10%;
+}
+
+
+} /*Small Device*/
+
+
+/*.container { width: 750px; }*/
+/*// Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+.nav > li > a {
+	padding: 15px 6px;
+}
+
+
+
+.portfolio-item.single-item {
+	display: inline-block;
+	vertical-align: middle;
+	width: 33%;
+	margin: 0;
+	position: relative;
+}
+.tray-design {
+	left: 25%;
+	top: 31%;
+}
+.slider-text {
+	left: 36%;
+	top: 46%;
+}
+.about p {width: 80%;}
+.single-item {
+	width: 33.5%;
+}
+
+.getupdate {
+	padding-bottom: 20px;
+}
+
+
+
+
+
+
+} /*Medium Device*/
+
+
+/*// Large devices (desktops, 992px and up)*/
+/*.container { width: 970px; }*/
+@media (min-width: 992px) and (max-width: 1199px) {
+.update_notice {
+	margin-left: 0%;
+}
+.slider-text {
+	left: 43%;
+	top: 34%;
+}
+
+
+
+} /*Large Device*/
+
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) {
+
+	
+} /*Extra Large Device

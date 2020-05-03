@@ -1,0 +1,176 @@
+/*Green Color*/
+.slider-text span { color: #ed485c;}
+.navbar-nav > li:hover a {
+    color: #ed485c;
+}
+.nav>i>a:hover {
+    color: #ed485c;
+    background: transparent;
+}
+.nav>i>a:active {
+    color: #ed485c;
+}
+.rool {background-color: #ed485c;}
+.rool2 {background-color: #ed485c;}
+.front_triangle {
+	border-top: 22px solid #ed485c;
+}
+.service_triangle {border-top: 140px solid #a9b8cc;}
+.service_triangle:hover {border-top: 140px solid #ed485c;}
+.service_triangl:before {border-top: 99px solid #ed485c;}
+
+.triangle::before {border-top: 36px solid #ed485c;}
+.single_service:hover .service_single h2 {color: #ed485c;}
+.our_team_item .team_triangle:hover {
+	border-bottom: 180px solid #ed485c;
+}
+.our_team_item:hover h3 {
+	color: #ed485c;
+}
+
+.team_s_link:hover i {
+	color: #ed485c;
+}
+.ourclient h2 {
+	color: #ed485c;
+}
+
+.controls button {
+	border: 1px solid #ed485c;
+	color: #ed485c;
+}
+
+.controls button:hover {
+	border: 1px solid #ed485c;
+	background: #ed485c;
+}
+
+.foli_left{
+	border-left: 50px solid #ed485c;
+}
+.foli_right {
+	border-right: 50px solid #ed485c;
+}
+.blog_info i:last-child {
+	color: #ed485c;
+}
+.single_blog:hover h3 {
+	color: #ed485c;
+}
+.single_post:hover.single_post::after {
+	background: #ed485c;
+}
+.get_update input[type="submit"] {
+	background: #ed485c;
+}
+
+.contact_left span {
+	color: #ed485c;
+}
+.contact_right input[type="submit"] {
+	background: #ed485c;
+}
+.map_triangle {
+	border-top: 22px solid #ed485c;
+}
+.contact_right input[type="text"]:focus {
+	color: #ed485c;
+	border: 1px solid #ed485c;
+}
+.contact_right textarea:focus {
+	border: 1px solid #ed485c;
+	color: #ed485c;
+}
+
+/*Green Color*/
+.navbar-nav > li:hover a {
+	color: #ed485c;
+	background: transparent;
+}
+.slider-text span { color: #ed485c;}
+
+.nav > li > a:focus {
+	text-decoration: none;
+	background-color: transparent;
+}
+
+.affix {
+	background: #101010;
+	opacity: 0.8;
+	z-index: 4;
+}
+.rool {background-color: #ed485c;}
+.rool2 {background-color: #ed485c;}
+.front_triangle {
+	border-top: 22px solid #ed485c;
+}
+.service_triangle {border-top: 140px solid #a9b8cc;}
+.service_triangle:hover {border-top: 140px solid #ed485c;}
+.service_triangl:before {border-top: 99px solid #ed485c;}
+
+.triangle::before {border-top: 36px solid #ed485c;}
+.single_service:hover .service_single h2 {color: #ed485c;}
+.our_team_item .team_triangle:hover {
+	border-bottom: 230px solid #ed485c;
+}
+.our_team_item:hover h3 {
+	color: #ed485c;
+}
+
+.team_s_link:hover i {
+	color: #ed485c;
+}
+.ourclient h2 {
+	color: #ed485c;
+}
+
+.controls button {
+	border: 1px solid #ed485c;
+	color: #ed485c;
+}
+
+.controls button:hover {
+	border: 1px solid #ed485c;
+	background: #ed485c;
+}
+.single-item:hover.portfolio_content {
+	background: #ed485c;
+}
+
+.foli_left{
+	border-left: 50px solid #ed485c;
+}
+.foli_right {
+	border-right: 50px solid #ed485c;
+}
+.blog_info i:last-child {
+	color: #ed485c;
+}
+.single_blog:hover h3 {
+	color: #ed485c;
+}
+.single_post:hover.single_post::after {
+	background: #ed485c;
+}
+.get_update input[type="submit"] {
+	background: #ed485c;
+}
+
+.contact_left span {
+	color: #ed485c;
+}
+.contact_right input[type="submit"] {
+	background: #ed485c;
+}
+.map_triangle {
+	border-top: 22px solid #ed485c;
+}
+.contact_right input[type="text"]:focus {
+	color: #ed485c;
+	border: 1px solid #ed485c;
+}
+.contact_right textarea:focus {
+	border: 1px solid #ed485c;
+	color: #ed485c;
+}
+

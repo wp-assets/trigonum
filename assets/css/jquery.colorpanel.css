@@ -1,0 +1,40 @@
+.colorPanel {
+    margin: 0px;
+    padding: 5px;
+    position: fixed;
+    z-index: 100;
+    min-width: 20px;
+    background-color: #2c3e50;
+    top: 40%;
+    left: 0;
+	
+}
+.colorPanel ul {
+    margin: 0px;
+   padding:0px;
+    list-style: none;
+	display:none;
+ 
+}
+
+.colorPanel ul li {
+    display: block;
+    margin-top: 5px;
+}
+
+.colorPanel ul a {
+    display: block;
+    width: 20px;
+    height: 20px;
+    border: #95a5a6 1px solid;
+}
+
+#cpToggle{
+	display:block;
+	height:20px;
+	width:20px;
+	background-image: url(../css/skins/index.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    animation: infinite ease-in-out 2s;
+}

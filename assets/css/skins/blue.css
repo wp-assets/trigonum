@@ -1,0 +1,89 @@
+/*Green Color*/
+.slider-text span { color: blue;}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    text-decoration: none;
+    color: blue;
+    background: transparent;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: blue;
+}
+.affix {background: #101010;}
+.rool {background-color: blue;}
+.rool2 {background-color: blue;}
+.front_triangle {
+	border-top: 22px solid blue;
+}
+.right_about h2 {
+	color: blue;
+}
+.service_triangle {border-top: 140px solid #a9b8cc;}
+.service_triangle:hover {border-top: 140px solid blue;}
+.service_triangl:before {border-top: 99px solid blue;}
+
+.triangle::before {border-top: 36px solid blue;}
+.single_service:hover .service_single h2 {color: blue;}
+.our_team_item .team_triangle:hover {
+	border-bottom:230px solid blue;
+}
+.our_team_item:hover h3 {
+	color: blue;
+}
+
+.team_s_link:hover i {
+	color: blue;
+}
+.ourclient h2 {
+	color: blue;
+}
+
+.controls button {
+	border: 1px solid blue;
+	color: blue;
+}
+
+.controls button:hover {
+	border: 1px solid blue;
+	background: blue;
+}
+.portfolio_content:hover.portfolio_content::after {
+	background: blue;
+}
+
+.foli_left{
+	border-left: 50px solid blue;
+}
+.foli_right {
+	border-right: 50px solid blue;
+}
+.blog_info i:last-child {
+	color: blue;
+}
+.single_blog:hover h3 {
+	color: blue;
+}
+.single_post:hover.single_post::after {
+	background: blue;
+}
+.get_update input[type="submit"] {
+	background: blue;
+}
+
+.contact_left span {
+	color: blue;
+}
+.contact_right input[type="submit"] {
+	background: blue;
+}
+.map_triangle {
+	border-top: 22px solid blue;
+}
+.contact_right input[type="text"]:focus {
+	color: blue;
+	border: 1px solid blue;
+}
+.contact_right textarea:focus {
+	border: 1px solid blue;
+	color: blue;
+}
+

@@ -1,0 +1,89 @@
+/*Green Color*/
+.slider-text span { color: cyan;}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    text-decoration: none;
+    color: cyan;
+    background: transparent;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: cyan;
+}
+.affix {background: #101010;}
+.rool {background-color: cyan;}
+.rool2 {background-color: cyan;}
+.front_triangle {
+	border-top: 22px solid cyan;
+}
+.right_about h2 {
+	color: cyan;
+}
+.service_triangle {border-top: 140px solid #a9b8cc;}
+.service_triangle:hover {border-top: 140px solid cyan;}
+.service_triangl:before {border-top: 99px solid cyan;}
+
+.triangle::before {border-top: 36px solid cyan;}
+.single_service:hover .service_single h2 {color: cyan;}
+.our_team_item .team_triangle:hover {
+	border-bottom: 230px solid cyan;
+}
+.our_team_item:hover h3 {
+	color: cyan;
+}
+
+.team_s_link:hover i {
+	color: cyan;
+}
+.ourclient h2 {
+	color: cyan;
+}
+
+.controls button {
+	border: 1px solid cyan;
+	color: cyan;
+}
+
+.controls button:hover {
+	border: 1px solid cyan;
+	background: cyan;
+}
+.portfolio_content:hover.portfolio_content::after {
+	background: cyan;
+}
+
+.foli_left{
+	border-left: 50px solid cyan;
+}
+.foli_right {
+	border-right: 50px solid cyan;
+}
+.blog_info i:last-child {
+	color: cyan;
+}
+.single_blog:hover h3 {
+	color: cyan;
+}
+.single_post:hover.single_post::after {
+	background: cyan;
+}
+.get_update input[type="submit"] {
+	background: cyan;
+}
+
+.contact_left span {
+	color: cyan;
+}
+.contact_right input[type="submit"] {
+	background: cyan;
+}
+.map_triangle {
+	border-top: 22px solid cyan;
+}
+.contact_right input[type="text"]:focus {
+	color: cyan;
+	border: 1px solid cyan;
+}
+.contact_right textarea:focus {
+	border: 1px solid cyan;
+	color: cyan;
+}
+

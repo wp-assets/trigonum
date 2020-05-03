@@ -1,0 +1,89 @@
+/*Green Color*/
+.slider-text span { color: green;}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    text-decoration: none;
+    color: green;
+    background: transparent;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: green;
+}
+.affix {background: #101010;}
+.rool {background-color: green;}
+.rool2 {background-color: green;}
+.front_triangle {
+	border-top: 22px solid green;
+}
+.right_about h2 {
+	color: green;
+}
+.service_triangle {border-top: 140px solid #a9b8cc;}
+.service_triangle:hover {border-top: 140px solid green;}
+.service_triangl:before {border-top: 99px solid green;}
+
+.triangle::before {border-top: 36px solid green;}
+.single_service:hover .service_single h2 {color: green;}
+.our_team_item .team_triangle:hover {
+	border-bottom: 230px solid green;
+}
+.our_team_item:hover h3 {
+	color: green;
+}
+
+.team_s_link:hover i {
+	color: green;
+}
+.ourclient h2 {
+	color: green;
+}
+
+.controls button {
+	border: 1px solid green;
+	color: green;
+}
+
+.controls button:hover {
+	border: 1px solid green;
+	background: green;
+}
+.portfolio_content:hover.portfolio_content::after {
+	background: green;
+}
+
+.foli_left{
+	border-left: 50px solid green;
+}
+.foli_right {
+	border-right: 50px solid green;
+}
+.blog_info i:last-child {
+	color: green;
+}
+.single_blog:hover h3 {
+	color: green;
+}
+.single_post:hover.single_post::after {
+	background: green;
+}
+.get_update input[type="submit"] {
+	background: green;
+}
+
+.contact_left span {
+	color: green;
+}
+.contact_right input[type="submit"] {
+	background: green;
+}
+.map_triangle {
+	border-top: 22px solid green;
+}
+.contact_right input[type="text"]:focus {
+	color: green;
+	border: 1px solid green;
+}
+.contact_right textarea:focus {
+	border: 1px solid green;
+	color: green;
+}
+
